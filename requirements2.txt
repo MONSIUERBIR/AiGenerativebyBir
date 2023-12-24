@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch 
+torchvision
+opencv-python
+python-dotenv
+accelerate==0.23.0
+transformers==4.33.2
+invisible-watermark
+PyWavelets==1.2.0
+safetensors==0.3.3
+gradio==3.15.0
+diffusers==0.21.2
+xformers==0.0.21

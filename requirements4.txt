@@ -1,0 +1,14 @@
+torch --index-url https://download.pytorch.org/whl/cu118
+torchvision --index-url https://download.pytorch.org/whl/cu118
+torchaudio --index-url https://download.pytorch.org/whl/cu118
+python-dotenv
+accelerate
+transformers
+invisible-watermark
+numpy>=1.17
+PyWavelets>=1.1.1
+opencv-python>=4.1.0.25
+safetensors
+gradio==3.14.0
+xformers==0.0.20
+git+https://github.com/huggingface/diffusers.git
